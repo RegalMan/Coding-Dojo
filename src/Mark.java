@@ -1,0 +1,3 @@
+enum Mark {
+    X, O
+}
